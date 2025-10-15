@@ -1,0 +1,25 @@
+.env
+.venv
+dist
+dist-ssr
+*.local
+node_modules
+
+# Logs
+logs
+*.log
+
+# Testing
+coverage/
+__snapshots__
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

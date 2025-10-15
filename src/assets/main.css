@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@plugin "daisyui" {
+  exclude: properties; /* see https://github.com/saadeghi/daisyui/issues/3882 */
+  themes: all;
+}
